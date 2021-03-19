@@ -16,14 +16,14 @@ O projeto tem intuido de colocar em pratica C# e orientação à objetos, conex�
 </ul>
 
 <h3>Apresentação do Projeto<h3>
- <img src="Demonstracao.gif" alt="Demontração da utilização do webapp(criar contato)">
+<img src="./gifs/Demonstracao.gif" alt="Demontração da utilização do webapp(criar contato)">
  <p>Demonstração de como funciona a criação de um novo contato</p>
 
-<img src="DemonstracaoEditar.gif" alt="Demontração da utilização do webapp(editar)">
+<img src="./gifs/DemonstracaoEditar.gif" alt="Demontração da utilização do webapp(editar)">
 <p>Demonstração de como funciona a edição de um contato</p>
 
-<img src="DemonstracaoExcluir" alt="Demontração da utilização do webapp(excluir)">
+<img src="./gifs/DemonstracaoExcluir.gif" alt="Demontração da utilização do webapp(excluir)">
 <p>Demonstração de como funciona a exclusão de um contato</p>
 
-<img src="DemonstracaoValidacao.gif" alt="Demontração da validação" >
+<img src="./gifs/DemonstracaoVlidacao.gif" alt="Demontração da validação" >
 <p>Demonstração de como funciona a validação de um contato</p>
